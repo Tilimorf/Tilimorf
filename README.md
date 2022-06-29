@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tilimorf
-- 👀 I’m interested in learning how to code games
+- 👀 I’m interested in learning how to code games and a basic Twitch bot
 - 🌱 I’m currently learning Python 3
 
 
